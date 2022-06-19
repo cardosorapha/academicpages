@@ -61,12 +61,6 @@ Conferences
 * École d'hiver Francophone sur les Technologies de Conception
 des Systèmes Embarqués Hétérogènes(FETCH), Jun 2022 (Poster)
 * GDR SoC2 Colloque, Jun 2022 (Poster)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Volunteering
 ======
