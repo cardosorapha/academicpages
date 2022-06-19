@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 1'
+title: 'Hello World!'
 date: 2022-06-19
 permalink: /posts/2022/06/hello-world/
 tags:
