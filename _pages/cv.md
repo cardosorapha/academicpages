@@ -11,30 +11,56 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Exchange Student in Electrical and Computing Engineering, University of Iowa, 2015
+* B.S. in Electronics Engineering, Universidade Federal de Sergipe, 2020
+* M.S. in Electronic Instrumentation, Universidade Federal de Sergipe, 2021
+* Ph.D in Photonic Computing, Ecole Centrale de Lyon, 2021-Present
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014-2015: Linear Algebra Teaching Assistant
+  * Universidade Federal de Sergipe
+  * Weekly office hours for student support
+  * Grading acompannying exams 
   
-Skills
+* Summer 2016: Intern
+  * Illinois Institute of technology
+  * Hardware design for drone control
+  * Integration with automatic delivery software
+
+* 2016-2021: Research Assistant, GPRUFS
+  * Universidade Federal de Sergipe
+  * Performed research on robotic kinematics and dynamics
+  * Member/coordinator of the robot football team
+  * Gave support to new group students in the form of short courses in robotics and electronics
+ 
+* 2019: Intern
+  * Universidade Federal de Sergipe
+  * Developed a center-of-mass measuring platform
+  * Worked on hardware, firmware, software, and doccumentation
+  * Platform is currently in use by grad students on the Phys. Ed. department
+  
+* 2019-Present: Research Assistant, Instrumentacao UFS
+  * Universidade Federal de Sergipe
+  * Performed research on surface acoustic wave (SAW) devices
+  * Co-supervised students in analog electronics and SAW sensors
+  * Organized multiple events of science communication
+
+
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Third place - IEEE Very Small Soccer League, 2020
+* First place - Undergrad Researcher Highlights, 2020
+* Best graduation thesis award, 2020
+
+Conferences
+======
+* Latin American Robotics Symposium (LARS), Aug 2018 (Oral presentation)
+* International Symposium on Instrumentation System, Circuits and Transducers (INSCIT), Aug 2021 (Oral presentation) (Session Chair) 
+* Design, Automation and Test in Europe Conference (DATE), Mar 2022 (Attendee)
+* École d'hiver Francophone sur les Technologies de Conception
+des Systèmes Embarqués Hétérogènes(FETCH), Jun 2022 (Poster)
+* GDR SoC2 Colloque, Jun 2022 (Poster)
 
 Publications
 ======
@@ -42,18 +68,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Volunteering
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* 2020: Mechvent
+  * Aided in the repair of mechanical ventilators during the 2020 COVID crysis
+
+* 2020-2021: INESC P&D Brasil
+  * Collaborated in the project FASTEN VITA in the fields of electronics, manufacture, and programming
+
+Event Organization
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2016-2019: III to VI editions of the Simulation Robot Soccer Championship in Sergipe
+* 2020: Northeastern school of microelectronics
+* 2021-2022: I to III editions of the Interinstitutional Instrumentation Encounter
