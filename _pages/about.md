@@ -14,4 +14,5 @@ News
 ======
 Jun 2022: I presented our initial work during my PhD project, **Stochastic multiply-accumulate in photonics with
 phase-change materials** as a poster in FETCH2022 and in the Colloque GDR SoC2.
+
 Feb 2022: Our work, **"Energy Efficient On-Chip Optical Broadcast with Partial-Absorption Photodiodes"** is accepted by NEWCAS2022.
