@@ -21,7 +21,7 @@ Experience
 * 2019-Present: Research Assistant, Instrumentacao UFS
   * Universidade Federal de Sergipe
   * Performed research on surface acoustic wave (SAW) devices
-  * Co-supervised students in analog electronics and SAW sensors
+  * Co-supervised students in two one-year projects: mixed signal electronics and SAW sensors
   * Organized multiple events of science communication
 
 * 2019: Intern
