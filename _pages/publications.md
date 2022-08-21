@@ -14,11 +14,13 @@ author_profile: true
 
 Journal
 ======
+
 * Singularity-Free Inverse Kinematics with Joint Prioritization for Manipulators, JCAE 2022
 * Equivalent Circuit Models for SAW Delay Line Sensors, IEEE Sensors 2022
 
 Conference Proceedings
 ======
+* Energy efficient on-chip optical broadcast with partial-absorption photodiodes, NEWCAS 2022
 * Evaluation of an Equivalent Circuit Model for Simulation of Surface Acoustic Wave Sensors, INSCIT 2021
 * Solving inverse kinematics of planar manipulators with robustness to singularities by reverse operating neural networks, LARS 2018
 * Neural networks with physical meaning: representation of kinematic equations from robot arms using a neural network topology, LARS 2018
