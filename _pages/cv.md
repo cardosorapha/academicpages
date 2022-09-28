@@ -18,7 +18,21 @@ Education
 
 Experience
 ======
-* 2019-Present: Research Assistant, Instrumentacao UFS
+
+* 2021: Graduate Teaching Assistant (Analog Electronics)
+  * Universidade Federal de Sergipe
+  * Lectured about topics in analog electronics: differential amplifiers, current sources, feedback theory
+  * Made lectures [available on YouTube](https://www.youtube.com/channel/UCmMwbTV8kzDUHB0tbp-ktTw/videos) (in portuguese!)
+  * Designed lab sessions for students in LTSpice
+  * Graded exams
+
+* 2020-2021: Founder of Gre-μ
+  * Universidade Federal de Sergipe
+  * Took initiative for creating a study group in microelectronics
+  * Objective: present to students the basics of semiconductors, analog flow, digital flow, and design of building blocks for ICs
+  * Performed all activities with open-source software
+
+* 2019-2021: Research Assistant, Instrumentacao UFS
   * Universidade Federal de Sergipe
   * Performed research on surface acoustic wave (SAW) devices
   * Co-supervised students in two one-year projects: mixed signal electronics and SAW sensors
@@ -33,18 +47,22 @@ Experience
 * 2016-2021: Research Assistant, GPRUFS
   * Universidade Federal de Sergipe
   * Performed research on robotic kinematics and dynamics
-  * Member/coordinator of the robot football team
+  * Member/coordinator of the robot football team, involving design of: mechanics, PCBs, firmware, control system, vision software
   * Gave support to new group students in the form of short courses in robotics and electronics
 
 * Summer 2016: Intern
-  * Illinois Institute of technology
+  * Illinois Institute of Technology
   * Hardware design for drone control
   * Integration with automatic delivery software
 
-* 2014-2015: Linear Algebra Teaching Assistant
+* 2014-2015: Undergraduate Teaching Assistant (Linear Algebra)
   * Universidade Federal de Sergipe
   * Weekly office hours for student support
-  * Grading acompannying exams 
+
+* 2013-2014: Intern
+  * Universidade Federal de Sergipe
+  * Participated in a project for developing learning kits for microcontrollers
+  * Designed PCBs and firmwares for educational purposes
 
 
 Awards
@@ -55,10 +73,11 @@ Awards
 
 Conferences
 ======
+* NEWCAS, Jun 2022 (Oral Presentation)
 * GDR SoC2 Colloque, Jun 2022 (Poster)
 * FETCH, Jun 2022 (Poster)
 * DATE, Mar 2022 (Attendee)
-* INSCIT, Aug 2021 (Oral presentation) (Session Chair) 
+* INSCIT, Aug 2021 (Oral presentation, Session Chair) 
 * LARS, Aug 2018 (Oral presentation)
   
 Volunteering
@@ -71,7 +90,7 @@ Volunteering
 
 Event Organization
 ======
-* 2021-2022: I to III editions of the Interinstitutional Instrumentation Encounter
-* 2020: Northeastern school of microelectronics
-* 2016-2019: III to VI editions of the Simulation Robot Soccer Championship in Sergipe
+* 2021-2022: I to III editions of the Interinstitutional Instrumentation Encounters
+* 2020: Northeastern School of Microelectronics
+* 2016-2019: III to VI editions of the Simulation Robot Soccer Championship in Sergipe for middle and high-schoolers
 
