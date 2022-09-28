@@ -1,7 +1,7 @@
 ---
 title: 'Hello World!'
-date: 2022-06-19
-permalink: /posts/2022/06/hello-world/
+date: 2022-09-28
+permalink: /posts/2022/09/hello-world/
 tags:
   - science communication
   - blogs
