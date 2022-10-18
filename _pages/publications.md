@@ -20,6 +20,7 @@ Journal
 
 Conference Proceedings
 ======
+* Design of a Phase Readout Circuit For SAW Sensors With an Equivalent Circuit Model, INSCIT 2022
 * Energy efficient on-chip optical broadcast with partial-absorption photodiodes, NEWCAS 2022
 * Evaluation of an Equivalent Circuit Model for Simulation of Surface Acoustic Wave Sensors, INSCIT 2021
 * Solving inverse kinematics of planar manipulators with robustness to singularities by reverse operating neural networks, LARS 2018
