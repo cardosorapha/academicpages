@@ -55,7 +55,7 @@ Experience
   * Member/coordinator of the robot football team, involving design of: mechanics, PCBs, firmware, control system, vision software
   * Gave support to new group students in the form of short courses in robotics and electronics
 
-**Summer 2016: Intern**
+**2016: Intern**
   * Illinois Institute of Technology
   * Hardware design for drone control
   * Integration with automatic delivery software
