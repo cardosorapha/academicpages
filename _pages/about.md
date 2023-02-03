@@ -12,6 +12,10 @@ I am a PhD student at École Centrale de Lyon, in the Institut of Nanotechnologi
 
 News
 ======
+Feb 2023: I presented our intermediate work as a poster in FETCH2023.
+
+Jan 2023: Our work **"Towards a Robust Multiply-Accumulate Cell in Photonics using Phase-Change Materials"** has been accepted in DATE2023.
+
 Jun 2022: I presented our initial work during my PhD project, **Stochastic multiply-accumulate in photonics with
 phase-change materials** as a poster in FETCH2022 and in the Colloque GDR SoC2.
 
