@@ -79,6 +79,9 @@ Awards
 
 Conferences
 ======
+* ISVLSI, Jun 2023 (Oral Presentation)
+* GDR SoC2 Colloque, Jun 2023 (Poster)
+* DATE, Apr 2023 (Poster)
 * FETCH, Feb 2023 (Poster)
 * NEWCAS, Jun 2022 (Oral Presentation)
 * GDR SoC2 Colloque, Jun 2022 (Poster)
@@ -97,6 +100,7 @@ Volunteering
 
 Event Organization
 ======
+* 2023: GDR SoC2 Colloque Lyon
 * 2022: Fête de la Science - national French science vulgarization event
 * 2021-2022: I to III editions of the Interinstitutional Instrumentation Encounters
 * 2020, 2022: Northeastern School of Microelectronics
