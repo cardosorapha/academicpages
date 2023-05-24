@@ -86,7 +86,6 @@ Conferences
 * NEWCAS, Jun 2022 (Oral Presentation)
 * GDR SoC2 Colloque, Jun 2022 (Poster)
 * FETCH, Jun 2022 (Poster)
-* DATE, Mar 2022 (Attendee)
 * INSCIT, Aug 2021 (Oral presentation, Session Chair) 
 * LARS, Aug 2018 (Oral presentation)
   
