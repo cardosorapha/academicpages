@@ -79,6 +79,7 @@ Awards
 
 Conferences
 ======
+* ECOC, Oct 2023 (Poster)
 * INSCIT, Aug 2023 (Technical Committee)
 * ISVLSI, Jun 2023 (Oral Presentation)
 * GDR SoC2 Colloque, Jun 2023 (Poster)
