@@ -12,7 +12,7 @@ I am a PhD student at École Centrale de Lyon, in the Institut of Nanotechnologi
 
 News
 ======
-Oct 2023: During ECOC2023, we released our open-source photonic circuit simulator, SPECS. Check out its website for more info: https://demo.zrounba.fr/specs/.
+Oct 2023: During ECOC2023, we released our open-source photonic circuit simulator, SPECS. Check out its [website](https://demo.zrounba.fr/specs/) for more info.
 
 Jun 2023: Our work **"Photonic Convolution Engine Based on Phase-Change Materials and Stochastic Computing"** was presented in an oral presentation in ISVLSI 2023: https://ieeexplore.ieee.org/abstract/document/10238608.
 
