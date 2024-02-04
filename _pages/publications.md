@@ -20,10 +20,15 @@ Journal
 
 Conference Proceedings
 ======
+* Introducing SPECS: Scalable Photonic Event-driven Circuit Simulator, ECOC 2023
+* Photonic Physical Unclonable Function Based on Symmetric Microring Resonator Arrays, Frontiers in Optics 2023
 * Photonic Convolution Engine Based on Phase-Change Materials and Stochastic Computing, ISVLSI 2023
 * Towards a Robust Multiply-Accumulate Cell in Photonics using Phase-Change Materials, DATE 2023
 * Lightspeed Binary Neural Networks using Optical Phase-Change Materials, DATE 2023
 * Design of a Phase Readout Circuit For SAW Sensors With an Equivalent Circuit Model, INSCIT 2022
+* Comparing Strip and Slot Waveguides for Phase-Change Material Devices in SOI Platforms, PVLED 2022
+* Simulation-based Comparison of the Performance of Various Phase-Change Materials on a SiN-based Photonic Platform, META 2022
+* Energy efficient phase-change material based slot waveguide devices in SOI platforms, JNOG 2022
 * Energy efficient on-chip optical broadcast with partial-absorption photodiodes, NEWCAS 2022
 * Evaluation of an Equivalent Circuit Model for Simulation of Surface Acoustic Wave Sensors, INSCIT 2021
 * Solving inverse kinematics of planar manipulators with robustness to singularities by reverse operating neural networks, LARS 2018
