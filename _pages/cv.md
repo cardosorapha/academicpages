@@ -19,6 +19,13 @@ Education
 Experience
 ======
 
+**2022-2023: Lyon Optics Student Chapter**
+  * Ecole Centrale de Lyon
+  * President of a student chapter of PhD students in photonics in Lyon
+  * Led organization of scientific and community-building events
+  * Joined other student chapters in the creation of the French Physics Society's Young Club.
+
+
 **2022-Present: Graduate Teaching (Digital and Analog Electronics)**
   * Ecole Centrale de Lyon
   * Supervised lab sessions on computer architecture with 10-20 students at a time
