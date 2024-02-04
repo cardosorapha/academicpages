@@ -19,9 +19,11 @@ Education
 Experience
 ======
 
-**2022-Present: Graduate Teaching (Digital Electronics)**
+**2022-Present: Graduate Teaching (Digital and Analog Electronics)**
   * Ecole Centrale de Lyon
   * Supervised lab sessions on computer architecture with 10-20 students at a time
+  * Supervised lab sessions on Sigma-Delta ADCs with 10-20 students at time
+  * Lectured autonomy sessions on analog circuit simulation with LTSpice
   * Graded lab reports
 
 **2021: Graduate Teaching (Analog Electronics)**
@@ -72,6 +74,7 @@ Experience
 
 Awards
 ======
+* Third best oral presentation - INL PhD Days, 2023
 * Best poster presentation - INL PhD Days, 2022
 * Third place - IEEE Very Small Soccer League, 2020
 * First place - Undergrad Researcher Highlights, 2020
@@ -79,6 +82,8 @@ Awards
 
 Conferences
 ======
+* ASP-DAC, Jan 2024 (Oral Presentation)
+* NNPC, Oct 2023 (Poster)
 * ECOC, Oct 2023 (Poster)
 * INSCIT, Aug 2023 (Technical Committee)
 * ISVLSI, Jun 2023 (Oral Presentation)
@@ -101,6 +106,7 @@ Volunteering
 
 Event Organization
 ======
+* 2023: INL PhD Days 
 * 2023: GDR SoC2 Colloque Lyon
 * 2022: Fête de la Science - national French science vulgarization event
 * 2021-2022: I to III editions of the Interinstitutional Instrumentation Encounters
