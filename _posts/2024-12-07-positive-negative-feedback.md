@@ -14,11 +14,11 @@ Feedback is an amazingly useful tool in electronics. When negative, it allows us
 
 Generally we look at a circuit and figure out which feedback type is being applied to it (positive or negative) by analysing the feedback loop, and that's it. Now, consider the following circuit:
 
-![schematic](./figs/base_schematic.png)
+![schematic](./figs/2024-12-07/base_schematic.png)
 
 In this case, there are two feedback loops in paralel. One positive and one negative, and one of them will dominate depending on the value of $\alpha$. To analyse this, we can completely disregard the input source, shorting it to ground.
 
-![schematic_shorted_input](./figs/sch_no_inputs.png)
+![schematic_shorted_input](./figs/2024-12-07/sch_no_inputs.png)
 
 Now, if more of the output goes to the negative input $v_m$ than to the positive $v_p$, the feedback will be overall negative. So, to have negative feedback, we should ensure that
 
@@ -42,7 +42,7 @@ Converselly feedback will be positive if $\alpha>1$, but what happens when $\alp
 
 Here is a fun animation of what happens when sweeping $\alpha$ from $0$ to $2$. We can see it changing from an inverter amplifier to a hysteresis comparator, all as a result of changing one resistance!
 
-![schematic_and_transfer_char](./figs/output.gif)
+![schematic_and_transfer_char](./figs/2024-12-07/output.gif)
 
 
 Intuitive conclusions
@@ -102,7 +102,7 @@ That's what I meant when I said earlier that the circuit would behave *more or l
 
 Giving it some values, I considered $A = 1MV/V$, $R_1 = R_2 = 10k\Omega$, and $V_{in}$ as a sinusoid with $2\mu V$ amplitude. This case will lead to a final gain of $500k$. Here is the output:
 
-![alphaeq1](./figs/alphaone_tran.png)
+![alphaeq1](./figs/2024-12-07/alphaone_tran.png)
 
 ### Case 2: setting $\alpha = 0.5$ 
 
@@ -122,7 +122,7 @@ This is a quite funny expression. It reminds us of the gain equation for the non
 
 To give it some values, let's consider $A = 1MV/V$, $R_1 = R_2 = 10k\Omega$, and $V_{in}$ as a sinusoid with $2 V$ amplitude. This case will lead to a final gain of $2$. Here is the output:
 
-![alphaeq0](./figs/alphazero_tran.png)
+![alphaeq0](./figs/2024-12-07/alphazero_tran.png)
 
 ### Case 3: setting $\alpha = 2$
 
@@ -153,7 +153,7 @@ $$
 
 At $alpha=2$, $R_1 = R_2 = 10k \Omega$, and $VDD=5V$, the hysteresis curve transitions at $\pm 1.25V$. Here is the output of a time-simulation using a sinusoid of 2V amplitude:
 
-![alphaeq2](./figs/alphatwo_tran.png)
+![alphaeq2](./figs/2024-12-07/alphatwo_tran.png)
 
 In the figure we can see that, once the sinusoid hits over $1.25V$, the output goes to $-VDD$ and stays at it, even when the input is lower than the $1.25V$. It only transitions again once $V_{in}$ is as low as $-1.25V$, which proves it has hysteresis.
 
@@ -162,6 +162,6 @@ Conclusions
 
 It is very interesting how elegant and full of insight such a simple circuit can be. Hopefully now you see the beauty of its behavior as I do. Here is the transfer characteristic animation once again.
 
-![schematic_and_transfer_char](./figs/output.gif)
+![schematic_and_transfer_char](./figs/2024-12-07/output.gif)
 
 That's it for me today. Thanks for reading and I wish you have a great day!
