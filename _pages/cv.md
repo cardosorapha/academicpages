@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Photonic Computing, Ecole Centrale de Lyon, 2021-Present
+* Ph.D in Microelectronics and Photonics, Ecole Centrale de Lyon, 2021-2024
 * M.S. in Electronic Instrumentation, Universidade Federal de Sergipe, 2021
 * B.S. in Electronics Engineering, Universidade Federal de Sergipe, 2020
 * Exchange Student in Electrical and Computing Engineering, University of Iowa, 2015
@@ -19,6 +19,11 @@ Education
 Experience
 ======
 
+**2024-Present: CI Inovador - Analog and Mixed Signal**
+  * Universidade Federal do Rio Grande do Sul
+  * National initiative to train chip designers
+  * Final project: #IN PREPARATION#
+    
 **2022-2023: Lyon Optics Student Chapter**
   * Ecole Centrale de Lyon
   * President of a student chapter of PhD students in photonics in Lyon
@@ -26,7 +31,7 @@ Experience
   * Joined other student chapters in the creation of the French Physics Society's Young Club.
 
 
-**2022-Present: Graduate Teaching (Digital and Analog Electronics)**
+**2022-2024: Graduate Teaching (Digital and Analog Electronics)**
   * Ecole Centrale de Lyon
   * Supervised lab sessions on computer architecture with 10-20 students at a time
   * Supervised lab sessions on Sigma-Delta ADCs with 10-20 students at time
