@@ -47,7 +47,7 @@ Converselly feedback will be positive if $\alpha>1$, but what happens when $\alp
 Here is a fun animation of what happens when sweeping $\alpha$ from $0$ to $2$. We can see it changing from an inverter amplifier to a hysteresis comparator, all as a result of changing one resistance!
 
 <p align="center">
-  <img src="https://cardosorapha.github.io/academicpages/images/output.gif" width = 800 />
+  <img src="https://cardosorapha.github.io/academicpages/images/output.gif" width = 1000 />
 </p>
 
 Intuitive conclusions
@@ -174,7 +174,7 @@ Conclusions
 It is very interesting how elegant and full of insight such a simple circuit can be. Hopefully now you see the beauty of its behavior as I do. Here is the transfer characteristic animation once again.
 
 <p align="center">
-  <img src="https://cardosorapha.github.io/academicpages/images/output.gif" width = 800 />
+  <img src="https://cardosorapha.github.io/academicpages/images/output.gif" width = 1000 />
 </p>
 
 That's it for me today. Thanks for reading and I wish you have a great day!
