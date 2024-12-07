@@ -156,11 +156,12 @@ V_{in}(t) < V_{out}(t) \left(\frac{\alpha - 1}{\alpha}\right) \left(\frac{R_1}{R
 $$
 
 Reverting the inequality, we obtain that
+
 $$
 V_{in}(t) > V_{out}(t) \left(\frac{\alpha - 1}{\alpha}\right) \left(\frac{R_1}{R_1+R_2}\right) \implies V_{out}(t+\delta) = -VDD.
 $$
 
-At $alpha=2$, $R_1 = R_2 = 10k \Omega$, and $VDD=5V$, the hysteresis curve transitions at $\pm 1.25V$. Here is the output of a time-simulation using a sinusoid of 2V amplitude:
+At $\alpha=2$, $R_1 = R_2 = 10k \Omega$, and $VDD=5V$, the hysteresis curve transitions at $\pm 1.25V$. Here is the output of a time-simulation using a sinusoid of 2V amplitude:
 
 <p align="center">
   <img src="https://cardosorapha.github.io/academicpages/images/alphatwo_tran.png" width = 500 />
