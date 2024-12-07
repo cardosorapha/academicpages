@@ -63,7 +63,7 @@ $$
 V_{out}(t+\delta) = A(v_p(t) - v_m(t)).
 $$
 
-In this case, $v_p$ and $v_n$ can also depend on $V_{in} as a function of the resistances. As the following figure shows, the current $I_m$ is the same across all the top branch, while $I_p$ is constant across the bottom branch. Thus, we can deduce that
+In this case, $v_p$ and $v_n$ can also depend on $V_{in}$ as a function of the resistances. As the following figure shows, the current $I_m$ is the same across all the top branch, while $I_p$ is constant across the bottom branch. Thus, we can deduce that
 
 $$
 v_p(t) = V_{out}(t) \frac{R_1}{R_1+R_2},
@@ -79,7 +79,7 @@ $$
 V_{out}(t+\delta) = AV_{out}(t) \left(\frac{R_1}{R_1 + R_2} - \frac{R_1}{R_1+\alpha R_2} \right) - AV_{in} \left( \frac{\alpha R_2}{R_1 + \alpha R_2}\right).
 $$
 
-Let's call this equation (\*). From it we can derive the circuit behavior for any value of $\alpha$. Note how the term being multiplied by $V_{out}$ is the same I used before in the quick analysis to determine the feedback type. Now we can see in the output equation itself that if the term is positive (or negative), the output will be fed back positively (or negatively) to the evaluation of the next output.
+From (8) it we can derive the circuit behavior for any value of $\alpha$. Note how the term being multiplied by $V_{out}$ is the same I used before in the quick analysis to determine the feedback type. Now we can see in the output equation itself that if the term is positive (or negative), the output will be fed back positively (or negatively) to the evaluation of the next output.
 
 
 Let's now see what happens in each case.
@@ -92,7 +92,7 @@ $$
 \frac{R_1}{R_1 + R_2} = \frac{R_1}{R_1+ \alpha R_2},
 $$
 
-setting the first term of (\*) to zero, therefore
+setting the first term of (8) to zero, therefore
 
 $$
 V_{out}(t+\delta) = - A V_{in} \frac{R_2}{R_1 + R_2}.
@@ -106,7 +106,7 @@ Giving it some values, I considered $A = 1MV/V$, $R_1 = R_2 = 10k\Omega$, and $V
 
 ### Case 2: setting $\alpha = 0.5$ 
 
-In this case, the feedback is negative and the system is stable. Thus, $V_{out}(t+\delta) = V_{out}(t)$ for any given time, being a function of only $V_{in}$. After some rearranging, taking this into account in (\*) leads to,
+In this case, the feedback is negative and the system is stable. Thus, $V_{out}(t+\delta) = V_{out}(t)$ for any given time, being a function of only $V_{in}$. After some rearranging, taking this into account in (8) leads to,
 
 $$
 V_{out} = - V_{in} \frac{\alpha(R_1 + R_2)}{R_1(1-\alpha) + \frac{(R_1+R_2)(R_1 + \alpha R_2)}{A R_2}}.
@@ -128,7 +128,7 @@ To give it some values, let's consider $A = 1MV/V$, $R_1 = R_2 = 10k\Omega$, and
 
 In this case, the positive feedback would render this system unstable. However, since op-amps saturate their output voltage on $\pm VDD$ (ideally), the system becomes nonlinear, with two stable equilibrium points, showing hysteretic behavior. 
 
-The analysis here also refers back to equation (\*). I'm rewriting it for readability:
+The analysis here also refers back to equation (8). I'm rewriting it for readability:
 
 $$
 V_{out}(t+\delta) = AV_{out}(t) \left(\frac{R_1}{R_1 + R_2} - \frac{R_1}{R_1+\alpha R_2} \right) - AV_{in} \left( \frac{\alpha R_2}{R_1 + \alpha R_2}\right).
