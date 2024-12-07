@@ -10,7 +10,7 @@ tags:
 
 Feedback
 ======
-Feedback is an amazingly useful tool in electronics. When negative, it allows us to use gain of an amplifier as a currency that we can use to get more bandwidth, less noise, improve input-output impedances, and many other things. Positive feedback is also quite useful: we make oscillators and hysteresis comparators with it.
+Feedback is an amazingly useful tool in electronics. When negative, it allows us to use the gain of an amplifier as a currency that we can spend to get more bandwidth, less noise, improve input-output impedances, and many other things. Positive feedback is also quite useful: we make oscillators and hysteresis comparators with it.
 
 Generally we look at a circuit and figure out which feedback type is being applied to it (positive or negative) by analysing the feedback loop, and that's it. Now, consider the following circuit:
 
@@ -42,7 +42,7 @@ $$
 \alpha < 1.
 $$
 
-Converselly feedback will be positive if $\alpha>1$, but what happens when $\alpha=1$? Well, in this case the positive and negative feedbacks will cancel out and the amplifier will behave *more or less* like its open-loop version. 
+Conversely, feedback will be positive if $\alpha>1$, but what happens when $\alpha=1$? Well, in this case the positive and negative feedbacks will cancel out and the amplifier will behave *more or less* like its open-loop version. 
 
 Here is a fun animation of what happens when sweeping $\alpha$ from $0$ to $2$. We can see it changing from an inverter amplifier to a hysteresis comparator, all as a result of changing one resistance!
 
@@ -56,7 +56,7 @@ In this example we saw how the value of a passive component on a circuit can mak
 
 If you ignore this possibility, unavoidable device variations can put you in a tricky situation at a point in time when you cannot change the circuit anymore. 
 
-To back up the intuitive analysis that I presented here, I brought a more in-depth circuit analysis that can be used to find the circuit behavior for every value of alpha.
+To back up the intuitive analysis that I presented here, I brought a more in-depth circuit analysis that can be used to find the circuit behavior for every value of $\alpha$.
 
 
 In-depth analysis 
@@ -68,7 +68,13 @@ $$
 V_{out}(t+\delta) = A(v_p(t) - v_m(t)).
 $$
 
-In this case, $v_p$ and $v_n$ can also depend on $V_{in}$ as a function of the resistances. As the following figure shows, the current $I_m$ is the same across all the top branch, while $I_p$ is constant across the bottom branch. Thus, we can deduce that
+In this case, $v_p$ and $v_m$ can also depend on $V_{in}$ as a function of the resistances. As the following figure shows, the current $I_m$ is the same across all the top branch, while $I_p$ is constant across the bottom branch. 
+
+<p align="center">
+  <img src="https://cardosorapha.github.io/academicpages/images/base_schematic_currents.png" width = 500 />
+</p>
+
+Thus, we can deduce that
 
 $$
 v_p(t) = V_{out}(t) \frac{R_1}{R_1+R_2},
@@ -122,7 +128,7 @@ $$
 If we assume $A$ to be sufficiently big, it leads to 
 
 $$
-V_{out} = - V_{in} \left(\frac{\alpha}{1-\alpha}\right) \left(2 + \frac{R_2}{R_1} \right).
+V_{out} = - V_{in} \left(\frac{\alpha}{1-\alpha}\right) \left(1 + \frac{R_2}{R_1} \right).
 $$
 
 This is a quite funny expression. It reminds us of the gain equation for the non-inverting amplifier, but in this case it is also inverting. Also, there is a quite elegant dependance on $\alpha$. 
