@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at École Centrale de Lyon, in the Institut of Nanotechnologies de Lyon. I am currently working with professor Ian O'Connor (ECL/INL) and Sébastien Le Beux (Concordia) on photonic computing with phase-change materials at the [Heterogeneous Systems Design](https://inl.cnrs.fr/en/heterogeneous-systems-design/) group. I received my B.E. degree at the Universidade Federal de Sergipe (Brazil) and had my Masters in the same institution. My research interests cover emergent computing technologies and algorithms, analog computing, sensors and electronic instrumentation.
+I am Raphael, a brazilian Electronics Engineer with a PhD in the field of Microelectronics and Photonics from Université de Lyon, in the Institut of Nanotechnologies de Lyon. I received my B.E. degree at the Universidade Federal de Sergipe (Brazil) and had my Masters in the same institution. My research interests cover analog and mixed signal electronics, electronic instrumentation, and mathematical modeling of devices, circuits and systems.
+
+I am currently part of the CI Inovador program in the analog & mixed signal track, happening in the Federal University of Rio Grande do Sul, Brazil, in a partnership with multiple brazilian and foreign companies. 
 
 News
 ======
-Oct 2023: During ECOC2023, we released our open-source photonic circuit simulator, SPECS. Check out its [website](https://demo.zrounba.fr/specs/) for more info.
+Oct 2023: During ECOC2023, we released our open-source photonic circuit simulator, **SPECS**. Check out its [website](https://demo.zrounba.fr/specs/) for more info.
 
 Jun 2023: Our work **"Photonic Convolution Engine Based on Phase-Change Materials and Stochastic Computing"** was presented in an oral presentation in ISVLSI 2023: https://ieeexplore.ieee.org/abstract/document/10238608.
 
