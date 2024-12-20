@@ -184,4 +184,6 @@ It is very interesting how elegant and full of insight such a simple circuit can
   <img src="https://cardosorapha.github.io/academicpages/images/output.gif" width = 1000 />
 </p>
 
+I would like to finish with a special thanks to professor Hamilton Klimach, who showed me this topology and strongly suggested me to simulate it!
+
 That's it for me today. Thanks for reading and I wish you have a great day!
